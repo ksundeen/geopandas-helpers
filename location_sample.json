@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "60b61405a310e90021d28b84"
+  },
+  "geolocation": {
+    "latitude": 42.48425515079954,
+    "longitude": -71.2049425389944,
+    "floor": -1
+  },
+  "create_date": {
+    "$date": "2021-06-01T11:03:33.183Z"
+  },
+  "delay_code": "",
+  "status_code": "idle",
+  "user_id": {
+    "$oid": "5f2c2dde779144001ef05c39"
+  },
+  "jobId": {
+    "$oid": "60b613faa310e90021d28b7f"
+  },
+  "battery": 1,
+  "conectedBy": "wifi",
+  "device_id": "laheyme19",
+  "SSID": "BILH1",
+  "isNetworkAvailable": true,
+  "validSSIDs": "BILH",
+  "isAppInBackground": false,
+  "isSocketIOEnabled": true,
+  "wifiSettingSwitch": true,
+  "User-Agent": "NavvTrack | Version/1.16 | Build/20 | Device Name/iPhone12,8 | iOS/14.4.2 | CFNetwork/1220.1 | NetworkConnection/wifi | Darwin/20.3.0",
+  "session": "TcNq0hzryYAeBvdgeFcJCG0VZkrWfaPiOTxkzig0xy3jOgAvmttNYzPmIZ0nwtZa",
+  "chunkId": 134144,
+  "locationPermissions": "authorizedAlways",
+  "log_id": 909660
+}]
